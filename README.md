@@ -1,3 +1,7 @@
+Running the `npx sst deploy` command results in the following error:
+
+```NowBuildError: Unable to find lambda for route: /[parent_md5]/[child_md5]```
+
 # How to create a Next.js app
 
 An example full-stack serverless Next.js app created with SST.
